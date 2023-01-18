@@ -11,7 +11,7 @@ Skills: REACT / JS / HTML / CSS / Laravel / CodeIgneter
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Linux and web development 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashab20&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashab20&show_icons=true&theme=radical) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashab20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
