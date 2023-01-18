@@ -1,9 +1,9 @@
 <!--  ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-## Hi there 👋, Ashab Uddin
+## Hi there 👋,I'm Ashab Uddin
 #### Web Developer
 
-I'm Ahmad Ashab Uddin. I work as a web developer with my  linux operating system. I work for Frontend with HTML,CSS (SASS & SCSS), Javascript(jquery,react Js,next Js,TypeScript, json) and back-end: PHP,MySqli, Node js, express Js & MongoDB.I also Design and edit photos (with Adobe photoshop, illustrator, GIMP, & Inkscap ) and video edit (with blander and resolve 17). 
+I work for Frontend with HTML,CSS (SASS & SCSS), Javascript(jquery,react Js,next Js,TypeScript, json) and back-end: PHP,MySqli, Node js, express Js & MongoDB on my linux operating system.
 
 Skills: REACT / JS / HTML / CSS / Laravel / CodeIgneter
 
