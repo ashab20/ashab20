@@ -3,9 +3,9 @@
 ## Hi there 👋,I'm Ashab Uddin
 #### Web Developer
 
-I work for Frontend with HTML,CSS (SASS & SCSS), Javascript(jquery,react Js,next Js,TypeScript, json) and back-end: PHP,MySqli, Node js, express Js & MongoDB on my linux operating system.
+I work for Frontend with HTML,CSS (SASS & SCSS), Javascript(jquery,react Js,next Js,TypeScript, json) and back-end: PHP,MySqli, Node js, express Js & MongoDB , Prisma, GrapQL , Redis  on my linux operating system.
 
-Skills: REACT / JS / HTML / CSS / Laravel / CodeIgneter / MERN STACK / LAMP STACK / LINUX
+Skills: REACT / JS / HTML / CSS / Laravel / CodeIgneter / MERN STACK / LAMP STACK / LINUX / FLUTTER / VUE JS / DART / JAVA
 
 - 🌱 I’m currently learning Javascritp / PHP / Laravel 
 - 👯 I’m looking to collaborate on github 
